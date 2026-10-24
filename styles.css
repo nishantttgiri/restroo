@@ -1,0 +1,33 @@
+.navv{
+background-color: black;
+height: 60px;
+border-radius: 16px;
+}
+.logo {
+width: 60px;
+border-radius: 14px;
+}
+
+.links{
+text-decoration: none;
+color: white;
+margin-left: 40px;
+}
+.navbar{
+margin-left: 800px;
+margin-top: -43px;
+}
+.links:hover{
+color: orange;
+}
+
+h1{
+font-family: fantasy;
+font-style: italic;
+color: orange;
+font-weight: light;     
+}
+body{
+background-image: url("healthy-food-background.avif");
+
+}
